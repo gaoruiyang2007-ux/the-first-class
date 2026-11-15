@@ -7,3 +7,6 @@
 - git add . —— 把文件装进书包
 - git commit -m "说明" —— 拍照存档
 - git push —— 上传到 GitHub
+
+- 我学会用 git 啦!
+
